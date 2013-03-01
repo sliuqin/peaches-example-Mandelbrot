@@ -1,0 +1,15 @@
+.content {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.column-left, .column-right {
+    border: 1px solid #ccc;
+    float: left;
+    width: 570px;
+    margin-top: 20px;
+}
+
+.column-right {
+    float: right;
+}
